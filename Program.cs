@@ -119,8 +119,6 @@ namespace hammingCode
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Ti pidor");
-            Console.Read();
         }
     }
 }
